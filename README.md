@@ -1,20 +1,3 @@
-# rddc2020
-road damage detection challenge 2020
-
-
-# road damage detection challange 2020 IMSC submission
-
-This repository contains source code and trained models for [Road Damage Detection and Classification Challenge](https://rdd2020.sekilab.global/overview/) that was held as part of 2020 IEEE Big Data conference.
-
-The best model achieved mean F1-score of 0.674878682854973 on test1 and 0.666213894130645 on test2 dataset of the competition.
-
-Sample predictions:
-
-![]() ![]() ![]() ![]()
-<img src="examples/sample1.jpg" width="220" height="250" />
-<img src="examples/sample2.jpg" width="220" height="250" />
-<img src="examples/sample3.jpg" width="220" height="250" />
-<img src="examples/sample4.jpg" width="220" height="250" />
 
 ## Table of contents
 
